@@ -1,3 +1,7 @@
+#The links to the AI models in Google Colab
+[Sea creature identification](https://colab.research.google.com/drive/1gFVKEYfxzMfXM-fAHTtDiYOyuY9ERamT?usp=sharing#scrollTo=tarsc-0h9K4N)
+[Ocean climate analysis](https://colab.research.google.com/drive/1kpfBMz7jy8ZF7l84jxCK28Sxmtr9LDiN#scrollTo=BJaMOytvS3sq)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
